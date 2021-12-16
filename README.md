@@ -1,5 +1,4 @@
-![Public Stats](https://github-readme-stats.vercel.app/api?username=kuakman&&show_icons=true&theme=github_dark&custom_title=Public%20Stats&include_all_commits=ture&count_private=true)
-
+![Public Stats](https://github-readme-stats.vercel.app/api?username=kuakman&&show_icons=true&theme=github_dark&custom_title=Public%20Stats&include_all_commits=ture&count_private=true&line_height=40)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuakman&theme=github_dark)](https://github.com/kuakman)
 
 ### Personal Projects
