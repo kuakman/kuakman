@@ -7,6 +7,6 @@
 
 ### Personal Projects
 
-[![Synapse](https://github-readme-stats.vercel.app/api/pin/?username=kuakman&repo=synapse&theme=github_dark)](https://github.com/kuakman/synapse/tree/migration)
-
 [![RxLeviathan](https://github-readme-stats.vercel.app/api/pin/?username=nahuelio&repo=rx-leviathan&theme=github_dark)](https://github.com/nahuelio/rx-leviathan)
+[![GodotGame](https://github-readme-stats.vercel.app/api/pin/?username=nahuelio&repo=godot-game&theme=github_dark)](https://github.com/nahuelio/godot-game)
+[![Synapse](https://github-readme-stats.vercel.app/api/pin/?username=kuakman&repo=synapse&theme=github_dark)](https://github.com/kuakman/synapse/tree/migration)
