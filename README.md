@@ -19,10 +19,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuakman&theme=github_dark" alt="Top Languages" />
 </p>
 
-<h3 align="center">Tools I use</h3>
+<h3 align="center">Tools I like to use</h3>
 <p align="center">
   <a href="https://skillicons.dev" align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,reactivex,solidjs,svelte,tailwind,jest,vite,rollup,express,nodejs,electron,graphql,html,css,java,spring,gradle,py,cpp,qt,cmake,git,gitlab,mysql,mongodb,nginx,docker,linux,idea,ps" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,ts,babel,react,redux,reactivex,solidjs,vue,svelte,tailwind,jest,vite,rollup,webpack,aws,express,nodejs,electron,graphql,html,css,java,spring,gradle,py,cpp,qt,cmake,godot,git,gitlab,mysql,mongodb,nginx,docker,linux,idea,ps,xd,ai,ae" alt="My Skills" />
     </a>
 </p>
 
