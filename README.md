@@ -22,7 +22,7 @@
 <h3 align="center">Tools I like to use</h3>
 <p align="center">
   <a href="https://skillicons.dev" align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,babel,react,redux,reactivex,solidjs,vue,svelte,tailwind,jest,vite,rollup,webpack,aws,express,nodejs,electron,graphql,html,css,java,spring,gradle,py,cpp,qt,cmake,godot,git,gitlab,mysql,mongodb,nginx,docker,linux,idea,ps,xd,ai,ae" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,ts,babel,react,redux,reactivex,solidjs,vue,vuetify,svelte,tailwind,nuxtjs,jest,vite,vitest,rollup,webpack,aws,express,nodejs,electron,graphql,html,css,java,spring,gradle,py,cpp,qt,cmake,godot,git,githubactions,gitlab,mysql,dynamodb,mongodb,nginx,docker,linux,webstorm,idea,pycharm,clion,ps,xd,ai,ae" alt="My Skills" />
     </a>
 </p>
 
