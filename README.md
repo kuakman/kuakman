@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuakman&&show_icons=true&theme=github_dark&custom_title=Public%20Stats&include_all_commits=ture&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuakman&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats-rouge-sigma-78.vercel.app/api?username=kuakman&&show_icons=true&theme=github_dark&custom_title=Stats&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" alt="Github Stats" />
+  <img src="https://github-readme-stats-rouge-sigma-78.vercel.app/api/top-langs/?username=kuakman&theme=github_dark&langs_count=8" alt="Top Languages" />
 </p>
 
 <h3 align="center">Tools I like to use</h3>
@@ -28,9 +28,9 @@
 
 ### Personal Projects
 
-[![RxLeviathan](https://github-readme-stats.vercel.app/api/pin/?username=nahuelio&repo=rx-leviathan&theme=github_dark)](https://github.com/nahuelio/rx-leviathan)
-[![GodotGame](https://github-readme-stats.vercel.app/api/pin/?username=nahuelio&repo=godot-game&theme=github_dark)](https://github.com/nahuelio/godot-game)
-[![Synapse](https://github-readme-stats.vercel.app/api/pin/?username=kuakman&repo=synapse&theme=github_dark)](https://github.com/kuakman/synapse/tree/migration)
+[![RxLeviathan](https://github-readme-stats-rouge-sigma-78.vercel.app/api/pin/?username=nahuelio&repo=rx-leviathan&theme=github_dark)](https://github.com/nahuelio/rx-leviathan)
+[![GodotGame](https://github-readme-stats-rouge-sigma-78.vercel.app/api/pin/?username=nahuelio&repo=godot-game&theme=github_dark)](https://github.com/nahuelio/godot-game)
+[![Synapse](https://github-readme-stats-rouge-sigma-78.vercel.app/api/pin/?username=kuakman&repo=synapse&theme=github_dark)](https://github.com/kuakman/synapse/tree/migration)
 
 <p align="left">
   <a href="https://hits.sh/github.com/kuakman/hits/">
