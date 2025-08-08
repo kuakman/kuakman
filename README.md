@@ -16,7 +16,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-rouge-sigma-78.vercel.app/api?username=kuakman&&show_icons=true&theme=github_dark&custom_title=Stats&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" alt="Github Stats" />
-  <img src="https://github-readme-stats-rouge-sigma-78.vercel.app/api/top-langs/?username=kuakman&theme=github_dark&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-rouge-sigma-78.vercel.app/api/top-langs/?username=kuakman&theme=github_dark&langs_count=8&layout=donut" alt="Top Languages" />
 </p>
 
 <h3 align="center">Tools I like to use</h3>
