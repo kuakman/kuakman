@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://x.com/patokuakman">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/-%231DA1F2.svg?&style=flat-square&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
 
